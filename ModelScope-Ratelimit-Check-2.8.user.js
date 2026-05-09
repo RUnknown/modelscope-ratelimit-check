@@ -1,5 +1,4 @@
 // ==UserScript==
-// @name:zh-CN   魔搭社区限额查询
 // @name         ModelScope-Ratelimit-Check
 // @namespace    https://github.com/RUnknown/modelscope-ratelimit-check
 // @version      2.8
